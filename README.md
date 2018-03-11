@@ -1,0 +1,2 @@
+# verilog_sdram
+FPGA，SDRAM，EP3C40F484，verilog，READ AND WRITE
