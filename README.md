@@ -1,4 +1,4 @@
-# An-IR-small-target-dataset
+# An-Low-contrast-IR-image-dataset
 
 
 Part of the test data set in the experiment is released to the public for the use of relevant researchers.
